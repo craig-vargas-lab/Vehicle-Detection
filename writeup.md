@@ -10,6 +10,10 @@ Images of cars came from the [GTI Vehicle Image Database](http://www.gti.ssr.upm
 **Non Cars**
 Images of things commonly found on the road that were not cars came from the [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
 
+### Tools
+Most of the work for this project was done in Python utilizing the anaconda libraries.  A list of the libraries used can be found [here](./ai-cv.txt).
+
+
 ### Feature Vector
 *(car_cv.py lines: 227-313)*
 
